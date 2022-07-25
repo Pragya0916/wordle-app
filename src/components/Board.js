@@ -11,7 +11,8 @@ const Board = () => {
         <Letter letterPos={3}/>
         <Letter letterPos={4}/>
         <Letter letterPos={5}/>
-        
+         
+         
         </div>
 <div>   <Letter/>
         <Letter/>
